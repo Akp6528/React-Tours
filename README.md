@@ -1,2 +1,2 @@
-## React Projects Tours APP
+## React Tours APP
 
